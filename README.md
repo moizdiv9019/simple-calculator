@@ -1,2 +1,20 @@
 # simple-calculator
-An simple thing but helps us to understand syntax and bulid logic in python..
+
+# 🧮 CAL-PULS (Simple Calculator in Python)
+
+Welcome to **CAL-PULS**, a simple calculator built in Python.  
+This program allows users to perform arithmetic operations between two numbers.
+
+---
+
+## ✨ Features
+- Addition ➕
+- Subtraction ➖
+- Multiplication ✖️
+- Division ➗
+- Modulus %
+- Perform all operations at once 🔄
+
+---
+
+
